@@ -1,8 +1,9 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/joela/OneDrive/Desktop/DIG_3480/TileBuild/Tiles2D.exe
+C:/Users/joela/OneDrive/Desktop/DIG_3480/TileBuildChallenge/Tiles2D.exe
 SceneListBegin?
 Assets/TileMapScene.unity
+Assets/TileMapLevel2.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 7b803eb2910e9b4cd5e521ae07b9f7d6 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -154,6 +155,7 @@ aa5e3523afd7fd907d3f99da4b777fdc Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 c8a41ce4eea7677f6dd2aa0e422a2f04 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+4040790f574d8e74c1b00501c82b8322 Assembly-CSharp.dll:.PlayerController
 182e416670915c50a548c38c642db0d8 Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
 f35860350df72508419d9f9fcd288594 Vuforia.UnityExtensions.dll:Vuforia.AnchorInputListenerBehaviour
 182e416670915c50a548c38c642db0d8 Vuforia.UnityExtensions.dll:Vuforia.AnchorStageBehaviour
@@ -296,4 +298,6 @@ aa5e3523afd7fd907d3f99da4b777fdc Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 c8a41ce4eea7677f6dd2aa0e422a2f04 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
-5f01ae6314843bc19f4aa2cc9f423728 Assembly-CSharp.dll:.PlayerController
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.Rotator
+c82feb97a1728bb4925955514cc5176b Assembly-CSharp.dll:.Enemy
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.AudioManager
